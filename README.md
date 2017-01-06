@@ -24,6 +24,8 @@ matthewcaswell253@gmail.com .}_
 
 _{For this webpage I used powershell, git hub, html, css and I also used bootstrap to create some containers and used css to color them.}_
 
+<h4>you can view my live gh page <a href="http://mattcaswell253.github.io/week1"> Here </a></h4>
+
 ### License
 
 *{This project is protected under the MIT liecense.}*
