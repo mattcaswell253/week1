@@ -2,11 +2,16 @@ img{
   height: 450px;
   border: 5px solid green;
   margin: 50px
-
 }
+
+
 h1 {
   text-align: center;
 }
+body {
+  background-image: url('images/back.jpg');
+}
+
 
 .sidebar{
   width: 30%;
