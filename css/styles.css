@@ -1,0 +1,11 @@
+img{
+  height: 450px;
+  border: 5px solid green;
+
+}
+.first{
+  border: 5px solid green;
+  margin: 40px;
+  padding: 40px;
+  background-color: #FBEF31;
+}
