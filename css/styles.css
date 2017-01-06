@@ -2,11 +2,16 @@ img{
   height: 450px;
   border: 5px solid green;
   margin: 50px
+
 }
 h1 {
   text-align: center;
 }
 
+.sidebar{
+  width: 30%;
+  float: left;
+}
 .first{
   border: 5px solid green;
   margin: 40px;
@@ -24,6 +29,5 @@ h1 {
 .third{
   border: 5px solid red;
   margin: 40px;
-  padding: 40px; 
-
-}
+  padding: 40px;
+  background-color: #D683C2;
