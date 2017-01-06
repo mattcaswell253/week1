@@ -21,3 +21,9 @@ h1 {
   background-color: #40F50B;
 
 }
+.third{
+  border: 5px solid red;
+  margin: 40px;
+  padding: 40px; 
+
+}
