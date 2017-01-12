@@ -1,9 +1,8 @@
-img{
+img {
   height: 450px;
   border: 5px solid green;
   margin: 50px
 }
-
 
 h1 {
   text-align: center;
@@ -11,9 +10,11 @@ h1 {
   font-weight: bold;
   font-size: 80px;
 }
+
 body {
   background-color: #E35C5C;
 }
+
 .highlight {
   color: #2ECC71;
 }
@@ -22,38 +23,40 @@ body {
   text-align: center;
 }
 
-.sidebar{
+.sidebar {
   width: 30%;
   float: left;
   font-family: 'Indie Flower', cursive;
   font-weight: bold;
   font-size: 30px;
 }
-.friends{
+
+.friends {
   color: #2ECC71;
   width: 30%;
   float: right;
   font-family: 'Indie Flower', cursive;
   font-weight: bold;
   font-size: 30px
-
 }
-.first{
+
+.first {
   border: 5px solid green;
   margin: 40px;
   padding: 40px;
   background-color: #FBEF31;
 }
 
-.second{
+.second {
   border: 5px solid yellow;
   margin: 40px;
   padding: 40px;
   background-color: #40F50B;
-
 }
-.third{
+
+.third {
   border: 5px solid red;
   margin: 40px;
   padding: 40px;
   background-color: #D683C2;
+}
